@@ -1,0 +1,15 @@
+{
+	"Repeat":30,
+	"Stats":true,
+	"Scoreboard":
+	[
+		"custom mob_kills \u00A7c\u00A7l\u51fb\u6740\u699c\u00A7r",
+		"used diamond_pickaxe \u00A77\u00A7l\u6316\u6398\u699c\u00A7r",
+		"custom deaths \u00A74\u00A7l\u6b7b\u4ea1\u699c\u00A7r",
+		"custom traded_with_villager \u00A7a\u00A7l\u4ea4\u6613\u699c\u00A7r",
+		"custom fish_caught \u00A79\u00A7l\u9493\u9c7c\u699c\u00A7r",
+		"custom damage_taken \u00A7e\u00A7l\u5965\u91cc\u7ed9\u00A7r",
+		"custom play_one_minute \u00A7b\u00A7l\u6d3b\u8dc3\u5ea6\u00A7r",
+		"custom break_bedrock \u00A70\u00A7l\u7834\u57fa\u5ca9\u699c\u00A7r"
+	]
+}
